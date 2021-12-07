@@ -8,4 +8,7 @@ var_dump(6);
 print(1);
 print(1);
 print(1);
+print(1);
+print(1);
+print(1);
 
